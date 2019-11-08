@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ###### chapter 2 #######
+=======
+## chapter 2
+>>>>>>> bf3635163c62b63e87efa8a9c446e99fb85b7b79
 ## Peter Pan
 ## I used an additional novel titled  MARGARET OGILVY, and this is also written by Barrie.
 library(knitr)

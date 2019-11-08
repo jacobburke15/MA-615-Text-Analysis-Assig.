@@ -1,4 +1,4 @@
-###### chapter 2 ######
+###### chapter 2 #######
 ## Peter Pan
 ## I used an additional novel titled  MARGARET OGILVY, and this is also written by Barrie.
 library(knitr)
